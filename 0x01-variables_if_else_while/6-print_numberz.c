@@ -9,14 +9,14 @@
 
 int main(void)
 {
-char a;
-for (a = 'a'; a <= 'z'; a++)
-{
-	if ('q' != a && 'e' != a)
+int num;
+num = 0;
+
+while (num <= 9)
 	{
-	putchar(a);
+	putchar(num + '0');
+	num++;
 	}
-}
 	putchar('\n');
 	return (0);
 }
