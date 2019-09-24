@@ -1,7 +1,7 @@
 #include "holberton.h"
 /**
- *print_alphabet: Prints the alphabet
- *@a = value where the alphabet goes and increments
+ *print_alphabet - Prints the alphabet
+ *
  *No return
  */
 void print_alphabet(void)
