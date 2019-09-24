@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * printalphabetx10 - Print the alphabet 10 times in lowercase
+ *print_alphabet_x10 - Print the alphabet 10 times in lowercase
  *@a @b: variables, a contains the alphabet, b counts the times of repetitions
  *
  */
@@ -21,3 +21,4 @@ while (b < 10)
 	b++;
 }
 }
+
