@@ -2,9 +2,9 @@
 /**
  *lastdigit: print last digit of a number
  *
- *
+ *print_last_digit: this function will print the last digit of number
  * Return: last digit of a number
- * @i: number to evaluate 
+ * @i: number to evaluate
  */
 
 int print_last_digit(int l)
@@ -13,11 +13,11 @@ int print_last_digit(int l)
 int lastdigit = l % 10;
 
 if (l < 0)
-	
+
 	{
 	lastdigit *= -1;
 	}
 	_putchar(lastdigit + '0');
-	return(lastdigit);
+	return (lastdigit);
 }
 
