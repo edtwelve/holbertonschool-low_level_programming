@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- *print_alphabet
+ *print_alphabet: Prints the alphabet
  *@a = value where the alphabet goes and increments
  *No return
  */
