@@ -12,7 +12,7 @@ while (b < 10)
 {
 	char a = 'a';
 
-	while (a < 'z')
+	while (a <= 'z')
 	{
 	_putchar(a);
 	a++;
