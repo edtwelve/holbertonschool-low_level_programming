@@ -1,9 +1,9 @@
 #include "holberton.h"
 
 /**
- *sign: print sign of number
+ *print_sign - print sign of number
  *
- *@n : integer to check number
+ *@n: integer to check number
  * Return: 1 and + if greater than zero, 0 and 0 if zero, -1 and
  *- if less than zero.
  */
@@ -26,3 +26,4 @@ int print_sign(int n)
 	return (-1);
 	}
 }
+

@@ -1,10 +1,9 @@
 #include "holberton.h"
 /**
- *lastdigit: print last digit of a number
- *
- *print_last_digit: this function will print the last digit of number
+ *print_last_digit - print last digit of a number
+ * *
  * Return: last digit of a number
- * @i: number to evaluate
+ * @l: number to evaluate
  */
 
 int print_last_digit(int l)

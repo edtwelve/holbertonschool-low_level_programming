@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- *_abs: compute absolute value of integer
+ *_abs - compute absolute value of integer
  *
  *
  * Return: absolute value of i
@@ -20,3 +20,4 @@ else
         }
 return (0);
 }
+

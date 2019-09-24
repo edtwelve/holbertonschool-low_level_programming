@@ -1,8 +1,8 @@
 #include "holberton.h"
 /**
- *function that checks for lowercase character.
- *_islower: check for lowercases
- *@c :parameter to check alphabet position
+ *
+ *_islower - check for lowercases
+ *@c: parameter to check alphabet position
  *
  * Return: 1 if lower 0 if not.
  */
@@ -17,3 +17,4 @@ if (c <= 'z' && c >= 'a')
 	return (0);
 	}
 }
+
