@@ -3,7 +3,7 @@
 /**
  *sign: print sign of number
  *
- *
+ *@n : integer to check number
  * Return: 1 and + if greater than zero, 0 and 0 if zero, -1 and
  *- if less than zero.
  */
