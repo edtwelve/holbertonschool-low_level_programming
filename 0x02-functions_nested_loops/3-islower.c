@@ -1,6 +1,5 @@
 #include "holberton.h"
 /**
- *
  *_islower - check for lowercases
  *@c: parameter to check alphabet position
  *
