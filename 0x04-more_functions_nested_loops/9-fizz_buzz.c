@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
  * main - replace multiple of 3 and 5 for fizz and buzz.
- *@i - variable for count and fizzbuzz.
- * Return : 0
+ * Return: 0
  */
 int main(void)
 {
@@ -26,5 +25,7 @@ int i;
 		if (i != 100)
 		printf(" ");
 	}
+	printf('\n');
+	return (0);
 }
 
