@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- *main - if is multiple of 3 print fizz, if is multiple of 5 print buzz.
- * if is multiple of both print fizz buzz
+ * main - replace multiple of 3 and 5 for fizz and buzz.
  *@i - variable for count and fizzbuzz.
+ * Return : 0
  */
-void main(void)
+int main(void)
 {
 int i;
 	for (i = 1; i <= 100; i++)
