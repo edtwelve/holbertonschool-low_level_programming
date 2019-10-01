@@ -9,7 +9,7 @@ we have the following projects:
 4-print_rev.c: function that prints a string, in reverse, followed by a new line.
 5-rev_string.c: function that reverses a string.
 6-puts2.c: function that prints every other character of a string, starting with the first character, followed by a new line.
-7-puts_half.c: function that prints half of a string, followed by a new line.
-8-print_array.c: function that prints n elements of an array of integers, followed by a new line.
+7-puts_half.c: function that prints half of a string, followed by a new line. \n
+8-print_array.c: function that prints n elements of an array of integers, followed by a new line. \n
 9-strcpy.c: function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
 
