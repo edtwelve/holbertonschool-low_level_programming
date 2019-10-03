@@ -10,8 +10,8 @@
 
 int _strcmp(char *s1, char *s2)
 {
-	int cmp = (*s1 - *s2);
-	int c;
+	int c; cmp = (s1[c] - s2[c]);
+	
 
 	for (c = 0; s1[c] != '\0' && s2[c] != '\0'; c++)
 	{
